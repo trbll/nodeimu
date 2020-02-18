@@ -5,7 +5,7 @@ Nodejs bindings for accessing IMU/pressure/humidity/temperature data using [RTIM
 
 ## Note
 
-This is a fork of rupnikj/nodeimu that updates dependencies for at least Node v12.
+This is a fork of rupnikj/nodeimu that updates dependencies for at least Node v12. The most recent version of the https://github.com/RTIMULib/RTIMULib2 repository is included in this repo for convenience (as of 2/18/2020). 
 
 ## Install
 
